@@ -1,0 +1,17 @@
+task 5
+
+ 5.1 recruit@umuzi-umuzi:~$ cd Documents
+     recruit@umuzi-umuzi:~/Documents$ touch pad.md
+
+ 5.2 recruit@umuzi-umuzi:~/Documents$ cd ~
+     recruit@umuzi-umuzi:~$ cd Desktop
+     recruit@umuzi-umuzi:~/Desktop$ mkdir work
+
+ 5.3 recruit@umuzi-umuzi:~/Desktop$ cp ~/Documents/pad.md pad_copy.md
+
+ 5.4 recruit@umuzi-umuzi:~/Desktop$ locate updatedb
+
+ 5.5 recruit@umuzi-umuzi:~/Desktop$ cd -
+
+ 5.6 recruit@umuzi-umuzi:~$ locate pad_copy.md
+

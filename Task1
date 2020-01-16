@@ -1,0 +1,5 @@
+Task 1
+  1.1 computer system folders eg the downloads,desktop etc. ls list all         folders  of computer system set
+  1.2-pwd -print out the path. It shows the directly or path that you are currently working in.
+  1.3-The folder workspace its empty.it means the folder has nothing as i did not create or copy and file within it.
+  1.4-cp file.doc newfile.doc

@@ -1,0 +1,4 @@
+task 2
+  - recruit@umuzi-umuzi:~/workspace$ Touch exercise.md
+  - recruit@umuzi-umuzi:~/workspace$ rm /tmp/exercise.md
+  - recruit@umuzi-umuzi:~/workspace$ rm exersise.md

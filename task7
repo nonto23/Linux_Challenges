@@ -1,0 +1,5 @@
+task 7
+
+ 7.1 recruit@umuzi-umuzi:~$ nano my_bio.md
+ 7.2 ctrl+0 then ctrl+x
+ 7.3 recruit@umuzi-umuzi:~$ mv my_bio.md my_files

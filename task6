@@ -1,0 +1,8 @@
+task 6
+
+ 6.1 recruit@umuzi-umuzi:~$ find -name '*.pdf'
+
+ 6.2 recruit@umuzi-umuzi:~$ find -name '*.pdf' > searched_result
+
+ 6.3 recruit@umuzi-umuzi:~$ find . -maxdepth 1 -newermt "2020-01-16"
+
